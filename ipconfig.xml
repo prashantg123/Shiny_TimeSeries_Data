@@ -1,0 +1,5 @@
+<document id="ipconfig">
+  <externalIP IP="10.50.20.233"/>
+  <internalIP IP="192.168.115.233"/>
+  <useInternal value="True"/>
+</document>
